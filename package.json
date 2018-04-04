@@ -1,0 +1,23 @@
+{
+  "name": "babel-essential",
+  "version": "1.0.0",
+  "description": "This is babel training repository contains all examples and presentation data.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinaymavi/babel-essential.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinaymavi/babel-essential/issues"
+  },
+  "homepage": "https://github.com/vinaymavi/babel-essential#readme"
+}
